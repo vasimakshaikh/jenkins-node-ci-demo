@@ -1,0 +1,11 @@
+{
+  "name": "jenkins-node-ci-demo",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js",
+    "build": "echo 'Build step placeholder'"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
